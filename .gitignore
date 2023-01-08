@@ -3,7 +3,10 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.idea
 
 \#jekyll-theme-hydejack/*/pro
 \#jekyll-theme-hydejack/*/*/pro
 \#jekyll-theme-hydejack/*/*/*/pro
+
+\#jekyll-theme-hydejack/node_modules
