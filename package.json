@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "gh-pages": "^4.0.0",
+    "re-template-tag": "^2.0.1"
+  },
+  "scripts": {
+    "build": "JEKYLL_ENV=production bundle exec jekyll build",
+    "deploy": "gh-pages -d _site"
+  }
+}
